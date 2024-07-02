@@ -1,0 +1,20 @@
+a{
+    text-decoration: none!important;
+}
+
+.orderbutton {
+    text-align: center;
+}
+
+.demo1{
+    color: #f00;
+}
+
+.card {
+    margin-bottom: 40px;
+}
+
+.card:hover {
+    -webkit-box-shadow: 5px 5px 7px 5px #780808;
+box-shadow: 5px 5px 7px 5px #780808;
+}
